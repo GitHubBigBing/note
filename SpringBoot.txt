@@ -1,0 +1,11 @@
+SpringBoot
+1 基于SpringBoot的MVC
+	- 数据展示和查询
+	- 表单提交
+	- scope application、request、session
+	- Thymeleaf th:each 中变量的实体类必须有set、get方法
+	- 默认先访问src/main/webapp/ 下的页面
+	Servlet Filter Listener...(Listener最先启动)
+	JSP、Thymeleaf
+	Dao层整合 Spring Data Jpa
+
