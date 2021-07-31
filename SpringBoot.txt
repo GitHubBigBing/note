@@ -8,4 +8,6 @@ SpringBoot
 	Servlet Filter Listener...(Listener最先启动)
 	JSP、Thymeleaf
 	Dao层整合 Spring Data Jpa
-
+2 Thymeleaf、Jpa、Bootstrap
+	- @RequestBody 前端必须表装成json格式
+	- 
