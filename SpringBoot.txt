@@ -1,3 +1,5 @@
+SpringClound 前置 7-16 SpringBoot源码
+
 SpringBoot
 1 基于SpringBoot的MVC
 	- 数据展示和查询
@@ -9,5 +11,16 @@ SpringBoot
 	JSP、Thymeleaf
 	Dao层整合 Spring Data Jpa
 2 Thymeleaf、Jpa、Bootstrap
-	- @RequestBody 前端必须表装成json格式
+	- @RequestBody Account account 前端必须表装成json格式
 	- 
+3 mybatis整合SpringBoot、mybatis-generator
+  - ORM 表到对象的映射
+  - ibatis->mybatis->mybatis plus(ActiveRecord 数据绑定到对象上)
+  - ActiveRecord:CRUD在实体对象上 ORM:CRUD在ORM框架提供的方法上
+  - mybaits默认连接池HikariPool
+  - 学框架的基本技能 动态代理和反射
+4 OA用户模块
+	- 
+5 OA用户模块
+6 OA用户模块
+7 OA用户模块
